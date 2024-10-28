@@ -1,9 +1,5 @@
 .banner {
     &-area {
-        background-image: url(../img/banner-bg.png);
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-blend-mode: multiply;
         padding-top: var(--padding-top, 230px);
         padding-bottom: var(--padding-bottom, 230px);
         @include xl {
